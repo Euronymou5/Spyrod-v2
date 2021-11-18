@@ -14,7 +14,7 @@ chmod +x requirements.sh spyrod.py
 
 bash requirements.sh / Linux: sudo bash requirements.sh
 
-python spyrod.py
+python spyrod.py -h
 
 Listo para usar!!
 

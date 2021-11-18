@@ -8,7 +8,7 @@ cd $HOME
 
 git clone https://github.com/Euronymou5/Spyrod-v2.git
 
-cd Spyrod-v1
+cd Spyrod-v2
 
 chmod +x requirements.sh spyrod.py
 

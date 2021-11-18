@@ -2,7 +2,7 @@
 Una simple herramienta para rastrear IP programada en Python
 
 # Instalacion
-apt install git python python2
+apt install git -y
 
 cd $HOME
 
@@ -10,9 +10,9 @@ git clone https://github.com/Euronymou5/Spyrod-v2.git
 
 cd Spyrod-v2
 
-chmod +x requirements.sh spyrod.py
+chmod +x requirements.sh
 
-bash requirements.sh / Linux: sudo bash requirements.sh
+Termux: bash requirements.sh / Linux: sudo bash requirements.sh
 
 python spyrod.py -h
 

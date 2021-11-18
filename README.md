@@ -18,5 +18,10 @@ python spyrod.py
 
 Listo para usar!!
 
+# Uso
+python spyrod.py -h (Para mostrar la ayuda)
+python spyrod.py -t {IP de la victima}
+Ejemplo: python spyrod.py -t 142.251.46.142
+
 # Contacto
 Discord: Negro100pesos#4439

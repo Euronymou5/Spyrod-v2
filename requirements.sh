@@ -1,6 +1,3 @@
-pkg update -y 
-pkg install curl -y
-
-sudo apt update -y
-sudo apt isntall curl -y
+apt update -y
+apt install curl -y
 clear

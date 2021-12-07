@@ -2,6 +2,7 @@
 Una simple herramienta para rastrear IP programada en Python
 
 # Instalacion
+```
 apt install git -y
 
 cd $HOME
@@ -12,11 +13,12 @@ cd Spyrod-v2
 
 chmod +x requirements.sh
 
-Termux: bash requirements.sh / Linux: sudo bash requirements.sh
+Termux: bash requirements.sh    /   Linux: sudo bash requirements.sh
 
 python3 spyrod.py -h
 
 Listo para usar!!
+```
 
 # Uso
 python3 spyrod.py -t {IP de la victima}

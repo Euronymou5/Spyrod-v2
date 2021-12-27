@@ -5,8 +5,6 @@ Una simple herramienta para rastrear IP programada en Python
 ```
 apt install git -y
 
-cd $HOME
-
 git clone https://github.com/Euronymou5/Spyrod-v2.git
 
 cd Spyrod-v2

@@ -26,7 +26,7 @@ python3 spyrod.py
 Listo para usar!!
 ```
 # Version
-**Spyrod-v3
+**Spyrod-v3**
 
 # Uso
 python3 spyrod.py

@@ -27,6 +27,7 @@ Listo para usar!!
 ```
 # Version
 **Spyrod-v3**
+**Probablemente la ultima version que saque de esta herramienta**
 
 # Uso
 python3 spyrod.py

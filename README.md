@@ -1,4 +1,4 @@
-# Spyrod-v2
+# Spyrod-v3
 Una simple herramienta para rastrear IP programada en Python
 
 # Instalacion
@@ -25,6 +25,8 @@ python3 spyrod.py
 
 Listo para usar!!
 ```
+# Version
+**Spyrod-v3
 
 # Uso
 python3 spyrod.py

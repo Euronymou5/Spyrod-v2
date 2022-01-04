@@ -21,17 +21,13 @@ chmod +x requirements.sh
 Termux: bash requirements.sh    /   Linux: sudo bash requirements.sh
 ```
 ```
-python3 spyrod.py -h
+python3 spyrod.py
 
 Listo para usar!!
 ```
 
 # Uso
-python3 spyrod.py -t {IP de la victima}
-# Ejemplo
-python3 spyrod.py -t 142.251.46.142
-# Ayuda
-python3 spyrod.py -h (Para mostrar la ayuda)
+python3 spyrod.py
 
 # Contacto
 Discord: Negro100pesos#4439

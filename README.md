@@ -1,10 +1,7 @@
-# Spyrod-v3
-Una simple herramienta para rastrear IP programada en Python
+# Spyrod-v3 
 
 # ¿Que es Spyrod-v3?
-• Spyrod-v3 es una herramienta que localiza una IP
-
-• 
+• Spyrod-v3 es una herramienta que localiza una IP programada en Python3
 
 # Instalacion y uso
 ```

@@ -26,8 +26,6 @@ Linux: sudo bash requirements.sh
 ```
 ```
 python3 spyrod.py
-
-Listo para usar!!
 ```
 # Version
 **Spyrod-v3**

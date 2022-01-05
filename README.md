@@ -3,6 +3,12 @@
 # ¿Que es Spyrod-v3?
 • Spyrod-v3 es una herramienta que localiza una IP programada en Python3
 
+• Testeado en:
+
+• Kali Linux ✔
+
+• Termux ✔
+
 # Instalacion y uso
 ```
 apt install git -y

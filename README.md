@@ -38,4 +38,4 @@ python3 spyrod.py
 **Probablemente la ultima version que saque de esta herramienta**
 
 # Contacto
-Discord: Euronymou5#1234
+Discord: Euronymou5#3155

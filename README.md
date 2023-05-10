@@ -5,9 +5,9 @@
 
 • Testeado en:
 
-• Kali Linux ✔
+• Linux (Debian, Compatible con Ubuntu): ✔
 
-• Termux ✔
+• Termux: ✔
 
 # Instalacion y uso
 ```

@@ -1,7 +1,7 @@
-# Spyrod-v3 
+# Spyrod-v2
 
-# ¿Que es Spyrod-v3?
-• Spyrod-v3 es una herramienta que localiza una IP programada en Python3
+# ¿Que es Spyrod-v2?
+• Spyrod-v2 es una herramienta que localizar una IP programada en Python3
 
 • Testeado en:
 
@@ -10,9 +10,6 @@
 • Termux ✔
 
 # Instalacion y uso
-```
-apt install git -y
-```
 ```
 pip install requests
 ```
@@ -34,7 +31,7 @@ Linux: sudo bash requirements.sh
 python3 spyrod.py
 ```
 # Version
-**Spyrod-v3**
+**Spyrod-v4**
 **Probablemente la ultima version que saque de esta herramienta**
 
 # Contacto

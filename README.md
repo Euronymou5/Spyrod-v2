@@ -46,7 +46,8 @@ python3 spyrod.py -trackme
 
 
 # Version
-## Spyrod-v5
+**Spyrod-v5**
+
 Una pequeña actualizacion que optimiza unas partes del codigo y lo hace mas facil de utilizar.
 
 # Contacto

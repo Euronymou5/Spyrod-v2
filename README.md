@@ -46,8 +46,8 @@ python3 spyrod.py -trackme
 
 
 # Version
-**Spyrod-v4**
-**Probablemente la ultima version que saque de esta herramienta**
+## Spyrod-v5
+Una pequeña actualizacion que optimiza unas partes del codigo y lo hace mas facil de utilizar.
 
 # Contacto
 Discord: Euronymou5#3155

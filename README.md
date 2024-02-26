@@ -9,7 +9,7 @@
 
 • Termux: ✔
 
-# Instalacion y uso
+# Instalacion  uso
 ```
 pip install requests
 ```
@@ -27,6 +27,8 @@ Termux: bash requirements.sh
 
 Linux: sudo bash requirements.sh
 ```
+
+## Comando para iniciar la herramienta:
 ```
 python3 spyrod.py -track <ip>
 ```

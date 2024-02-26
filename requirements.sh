@@ -15,6 +15,9 @@ function install() {
    echo -e "\033[32m\n[~] Instalando python3..."
    apt install python3 -y
    fi
+
+   echo -e "\033[32m\nInstalando requerimientos...\n"
+   pip3 install -r requirements.txt
    
    echo -e "\n\033[32m[✔] Instalacion completada."
    echo -e "\n[~] Utiliza el comando: python3 spyrod.py para iniciar la herramienta."

@@ -9,7 +9,7 @@
 
 • Termux: ✔
 
-# Instalacion  uso
+# Instalacion y uso
 ```
 pip install requests
 ```

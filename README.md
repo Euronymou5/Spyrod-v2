@@ -28,8 +28,21 @@ Termux: bash requirements.sh
 Linux: sudo bash requirements.sh
 ```
 ```
-python3 spyrod.py
+python3 spyrod.py -track <ip>
 ```
+
+Ejemplo
+```
+python3 spyrod.py -track 209.141.61.87
+```
+
+Obtener informacion de tu propia IP
+
+```
+python3 spyrod.py -trackme
+```
+
+
 # Version
 **Spyrod-v4**
 **Probablemente la ultima version que saque de esta herramienta**
